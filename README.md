@@ -1,2 +1,2 @@
 # emfToCanvas
-convert .EMF to canvas
+convert .EMF to canvas with Javascript..
